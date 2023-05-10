@@ -9,6 +9,7 @@ I have also interned at Ternium, Aimbridge Latam and Wizeline.
 
 [Here is my resume!](https://oscarreynam.github.io/resume/)
 
+
 ## Most Notable Projects I Have Worked On
 | Project Name | Description | Role | What I did | Tools used |
 | ------------ | ----------- | ----------- | ----------- | ----------- | 
