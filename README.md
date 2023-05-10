@@ -1,21 +1,21 @@
 # Hi, I'm Oscar
 
-## About Me
-I'm a senior CS student at the Tecnológico de Monterrey. I'm very interested mostly in the development of complex applications, Artificial Intelligence, and anything that picks my interest.
+## About Me 
+I'm a senior CS student at Tecnológico de Monterrey. I am currently very interested in software development and artificial intelligence, but I am always eager to investigate new topics that may catch my eye.
 
-I have interned at Ternium, Aimbridge Latam and Wizeline. 
+I've worked on various projects both personal and academic, such as having developed a WebApp with a videogame included to train Ternium personnel, develop a Discord Bot that responds to messages and can play music from YouTube and play it on the voice chat and I'm currently working on the development of an enterprise management application using Open AI's API to optimize certain process of management and help with the creation of profiles.
 
-I've worked on various projects either that be personal or academic, such as having develop a WebApp with a videogame included to train/capacitate personel inside of Ternium, develop a Discord Bot that responds to messages and can play music from Youtube and play it on the voice chat and currently I'm working on the development of an enterprise management application using Open AI's API to optimize certain process of managent and help with the creation of profiles. 
+I have also interned at Ternium, Aimbridge Latam and Wizeline.
 
 [Here is my resume!](https://oscarreynam.github.io/resume/)
 
 ## Most Notable Projects I Have Worked On
 | Project Name | Description | Role | What I did | Tools used |
 | ------------ | ----------- | ----------- | ----------- | ----------- | 
-| Overture #7421 FIRST Robotics Team | A FIRST Robotics team in which the team had to work in a six week perioud to build robots capable of competing on the challenge of the season. | Programmer | My aportation was in the development and testing of the robot movement and also a system of LED with Arduino. | C++, Python |
-| Enterpise Management App | WebApp with the intention to improve the ways of Wizeline to manage projects and generate profiles with more efficency. | Data Manager & Fullstack Developer | Designed a way to use LinkedIn to autofill employees information to the profiles | Typescript, Javascript, Node.js, Cypress, OpenAI, PostreSQL, React
-| Hotel Occupancy forecaster | Application that show a hotel occupancy forecaster application which predicts with a high accuracy of the occupation of Aimbridge's hotels at any given time using relevant travel data and economic data. | Programmer | I helped with the development of tables with the information used and helped to display that information into a readable way for any person to understand. | Jupiter Notebook, Python, SQL, Machine Learning
-| Training Program WebApp | Webapp in which includes a Unity application which gamified various of the processes from Ternium, the purpose of this WebApp is to train and make the employee capacitation fun to do and easy to understand. | FullStack Developer | Helped with the design of the databases which connected the website to the game and also help with the development of all of the pages inside the WebApp. | Unity, React, HTML, CSS, Javascript, SQL
+| Overture #7421 FIRST Robotics Team | A FIRST Robotics team where each season a robot with specific functions needed to be designed and built in a six-week period according to the stipulated challenge to then compete in a championship against other teams. | Robot Programmer | Developed and tested robot movement and LED system with Arduino. | C++, Python |
+| Enterpise Management App | WebApp that improves the efficiency of project management and profile generation inside of Wizeline. | Data Manager & Fullstack Developer | Implemented LinkedIn autofill function for employee profiles and development of WebApp. | Typescript, Javascript, Node.js, Cypress, OpenAI, PostreSQL, React
+| Hotel Occupancy forecaster | Forecaster application which predicts with high accuracy the availability of Aimbridge's hotels at any given time using relevant travel and economic data. | Fullstack Developer | Designed SQL database tables and implemented the functionality to view this information in a friendly and readable way in the web UI. | Jupiter Notebook, Python, SQL, Machine Learning
+| Training Program WebApp | Webapp that standardizes the training of new Ternium inspectors through gamified simulations made in Unity. | FullStack Developer | Designed SQL database tables with a centralized design that allowed front-end, back-end and the unity simulator to use the database without conflicts. | Unity, React, HTML, CSS, Javascript, SQL
 
 
 ## Gallery of Most Notable Projects
