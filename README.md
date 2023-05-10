@@ -28,6 +28,10 @@ Project Name: Enterprise Management App
 
 <img src="https://github.com/OscarReynaM/OscarReynaM/blob/main/Images/Image1.png" width="400"> <img src="https://github.com/OscarReynaM/OscarReynaM/blob/main/Images/image4.png" width="365">
 
+Project Name: Hotel Occupancy Forecaster
+
+<img src="https://github.com/OscarReynaM/OscarReynaM/blob/main/Images/image5.png" width="600"> 
+
 Project Name: Training Program WebApp
 
 <img src="https://github.com/OscarReynaM/OscarReynaM/blob/main/Gifs/gif3.gif" width="400"> <img src="https://github.com/OscarReynaM/OscarReynaM/blob/main/Gifs/gif4.gif" width="400">
